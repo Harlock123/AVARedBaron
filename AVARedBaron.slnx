@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVARedBaron/AVARedBaron.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVARedBaron.Tests/AVARedBaron.Tests.csproj" />
+  </Folder>
+</Solution>
